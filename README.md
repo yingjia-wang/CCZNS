@@ -1,6 +1,6 @@
 ## Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration (HPCA'25)
 
-This repo contains the source code of our paper, including:
+This repository contains the source code of our paper, including:
 - FEMU that implements CCZNS
 - CCZNS-aware Linux kernel
 - CCZNS-aware RocksDB and ZenFS
